@@ -71,7 +71,7 @@ Make sure your environment meets the following specifications:
 1. **Clone the repository:**
 ```bash
 git clone [https://github.com/pandiyan07/1min-candle-Binance-BTC-FUT-strategy-backtester-runs-on-NVIDIA-GPU-parallel-processing-using-CUDA.git](https://github.com/pandiyan07/1min-candle-Binance-BTC-FUT-strategy-backtester-runs-on-NVIDIA-GPU-parallel-processing-using-CUDA.git)
-cd your-repo-name
+cd 1min-candle-Binance-BTC-FUT-strategy-backtester-runs-on-NVIDIA-GPU-parallel-processing-using-CUDA
 ```
 
 2. **Create and activate a virtual environment (recommended):**
