@@ -1,6 +1,7 @@
-# Binance BTC Futures Strategy Backtester (NVIDIA GPU & Multiprocessing Accelerated)
+# Binance BTC Futures Strategy Backtester (both type consisting of - NVIDIA GPU (CUDA) & CPU based Multiprocessing Accelerated)
 
-> A high-performance Python backtesting framework built to evaluate, optimize, and scan massive parameter spaces for quantitative crypto trading strategies on 1-minute Binance Futures OHLC data.
+> Built on - March 2025,
+> This repository is a collection of multiple high-performance Python backtesting strategies framework built to evaluate, optimize, and scan massive parameter spaces for quantitative crypto trading strategies on 1-minute Binance Futures OHLC data using NVIDIA'S GPU through CUDA
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![CUDA/CuPy](https://img.shields.io/badge/Accelerated%20by-NVIDIA%20CUDA%20%2F%20CuPy-green.svg)](https://cupy.dev/)
@@ -69,7 +70,7 @@ Make sure your environment meets the following specifications:
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+git clone [https://github.com/pandiyan07/1min-candle-Binance-BTC-FUT-strategy-backtester-runs-on-NVIDIA-GPU-parallel-processing-using-CUDA.git](https://github.com/pandiyan07/1min-candle-Binance-BTC-FUT-strategy-backtester-runs-on-NVIDIA-GPU-parallel-processing-using-CUDA.git)
 cd your-repo-name
 ```
 
