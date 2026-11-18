@@ -1,4 +1,4 @@
-# Binance BTC Futures Strategy Backtester (GPU & Multiprocessing Accelerated)
+# Binance BTC Futures Strategy Backtester (NVIDIA GPU & Multiprocessing Accelerated)
 
 > A high-performance Python backtesting framework built to evaluate, optimize, and scan massive parameter spaces for quantitative crypto trading strategies on 1-minute Binance Futures OHLC data.
 
